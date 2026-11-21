@@ -1,6 +1,6 @@
-# {{APP_NAME}}
+# yXlBc2ijkx2
 
-- **Application Name:** {{APP_NAME}}
-- **Frontend Repository:** `{{FRONTEND_REPO}}`
-- **Live Pages URL:** [{{LIVE_URL}}]({{LIVE_URL}})
+- **Application Name:** yXlBc2ijkx2
+- **Frontend Repository:** `yXlBc2ijkx2_Frontend`
+- **Live Pages URL:** [https://aviv-cyber.github.io/yXlBc2ijkx2_Frontend/](https://aviv-cyber.github.io/yXlBc2ijkx2_Frontend/)
 - **Architecture:** VaultDB (AES-GCM Encrypted Endpoint + Cloudflare Worker Proxy)
